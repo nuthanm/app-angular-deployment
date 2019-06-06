@@ -45,7 +45,8 @@ testem.log
 .DS_Store
 Thumbs.db
 
-#json
+#json files
+/*.json
 /package.json
 /package-lock.json
 /tslint.json
